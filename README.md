@@ -9,7 +9,7 @@ A fun, interactive maze game built with React where players navigate through ran
 - Keyboard arrow controls
 - Step counter and best score tracking
 - Solution path visualization
-- Clean, responsive design
+- Clean, responsive design 
 
 ## 🚀 Demo
 
